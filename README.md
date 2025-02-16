@@ -10,7 +10,7 @@ A Node.js application that generates and manages dummy employee data using Expre
  🚀 Getting Started
 
  📋 Prerequisites
-- Node.js instald- MongoDB instance runng
+- ode.js installed- MongoDB instance runng
 
  🛠️ Installation
 
